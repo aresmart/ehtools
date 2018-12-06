@@ -1,7 +1,19 @@
 #! /bin/bash
 clear
 printf '\033]2;ehtools INSTALLER\a'
-echo -e "Press \e[1;33many key\e[0m to install the script..."
+
+echo -e "                                                           "
+echo -e "███████╗██╗  ██╗████████╗ ██████╗  ██████╗ ██╗     ███████╗ \e[1;33mv2.1.5\e[0m"
+echo -e "██╔════╝██║  ██║╚══██╔══╝██╔═══██╗██╔═══██╗██║     ██╔════╝"
+echo -e "█████╗  ███████║   ██║   ██║   ██║██║   ██║██║     ███████╗"
+echo -e "██╔══╝  ██╔══██║   ██║   ██║   ██║██║   ██║██║     ╚════██║"
+echo -e "███████╗██║  ██║   ██║   ╚██████╔╝╚██████╔╝███████╗███████║"
+echo -e "╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝"
+echo -e "\e[1;33mBy Entynetproject corp\e[0m"
+echo -e "More on our site:"
+echo -e "==> \e[1;33mhttps://entynethacker.wixsite.com/ehtools\e[0m"                                                           
+echo -e "==> \e[1;33mhttp://entynetproject.simplesite.com/\e[0m"
+echo -e "Press \e[1;33many key\e[0m to install ehtools"
 read -n 1
 clear
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
@@ -85,7 +97,7 @@ then
 	BASHCHECK=$(cat ~/.bashrc | grep "bin/ehtools")
 	if [[ "$BASHCHECK" != "i" ]]
 	then
-		echo -e "Congratulations you have successfully installed our CLI"
+		echo -e "Congratulations you have successfully installed our Framework"
 		sleep 3
 	fi
 	echo -e "Adding EntynetHackerTools to PATH so you can access it from anywhere"
