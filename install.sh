@@ -119,6 +119,6 @@ clear
 echo -e "DONE"
 sleep 1
 clear
-echo -e "Open a NEW terminal and type 'ehtools' to launch the script"
+echo -e "Open a NEW terminal and type 'ehtools' to launch framework"
 sleep  4
 exit
