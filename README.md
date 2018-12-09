@@ -18,7 +18,7 @@
   <a href="https://entynethacker.wixsite.com/ehtools">
     <img src="https://img.shields.io/badge/ehtools-site-green.svg?maxAge=2592000">
   </a>
-  <a href="https://github.com/entynetproject/ehtools"><img src="https://img.shields.io/badge/Supported%20OS-Kali Linux-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" style="max-width:100%;"></a>
+  <a href="https://github.com/entynetproject/ehtools"><img src="https://img.shields.io/badge/Supported%20OS-Kali Linux, Parrot home security OS-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux-brightgreengreen.svg" style="max-width:100%;"></a>
   </a>
   <a href="https://github.com/entynetproject/ehtools/issues?q=is%3Aissue+is%3Aclosed">
       <img src="https://img.shields.io/github/issues/entynetproject/ehtools.svg">
