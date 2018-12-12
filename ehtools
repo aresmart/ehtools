@@ -1,4 +1,5 @@
 #! /bin/bash
+
 # 
 #            --------------------------------------------------
 #                            Ehtools Framework          
@@ -31,6 +32,7 @@
 #    Project's site : https://entynethacker.wixsite.com/ehtools
 #    Entynetproject's site : http://entynetproject.simplesite.com/
 #
+
 # set -x
 VERSION=2.1.5
 #Number of tools with keyboard shortcut support
