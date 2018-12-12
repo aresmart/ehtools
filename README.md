@@ -12,6 +12,9 @@
 
    <h4 align="center">See also this (more features):</h4>
 <p align="center">
+  <a href="https://github.com/entynetproject">
+    <img src="https://img.shields.io/badge/entynetproject-Ivan%20Nikolsky-blue.svg">
+  </a> 
   <a href="https://github.com/entynetproject/ehtools/releases">
     <img src="https://img.shields.io/github/release/entynetproject/ehtools.svg">
   </a>
